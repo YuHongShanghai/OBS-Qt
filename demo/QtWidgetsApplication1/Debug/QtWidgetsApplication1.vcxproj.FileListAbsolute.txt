@@ -1,0 +1,3 @@
+D:\OBS\QtWidgetsApplication1\Debug\QtWidgetsApplication1.exe
+D:\OBS\obs-qt-demo\QtWidgetsApplication1\Debug\QtWidgetsApplication1.exe
+D:\OBS\OBS-Qt\demo\QtWidgetsApplication1\Debug\QtWidgetsApplication1.exe
